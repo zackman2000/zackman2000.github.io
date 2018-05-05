@@ -1,11 +1,5 @@
-.center {
-    position: absolute;
-    left: 0;
-    top: 50%;
-    width: 100%;
-    text-align: center;
-}
 h1 {
     font-family: cursive;
-    font-size: 72px
+    font-size: 72px;
+    text-align: center;
 }
