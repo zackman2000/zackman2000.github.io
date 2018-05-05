@@ -1,6 +1,15 @@
 .centertext {
   text-align: center;
 }
+
 .justifytext {
   text-align: justify;
+}
+
+h1 {
+  color: blue;
+}
+
+a {
+  text-decoration: none;
 }
