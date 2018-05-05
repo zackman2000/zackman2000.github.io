@@ -1,5 +1,13 @@
+.lefttext {
+  text-align: left;
+}
+
 .centertext {
   text-align: center;
+}
+
+.righttext {
+  text-align: right;
 }
 
 .justifytext {
@@ -8,8 +16,29 @@
 
 h1 {
   color: blue;
+  font-family: impact;
+  font-size: 100px;
 }
 
 a {
+  font-family: impact;
+  font-size: 20px;
+}
+
+a:link, a:visited {
+    background-color: white;
+    border: 2px solid blue;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
     text-decoration: none;
+    display: inline-block;
+}
+
+a:hover {
+    background-color: blue;
+}
+
+a:active {
+  background-color: darkblue;
 }
