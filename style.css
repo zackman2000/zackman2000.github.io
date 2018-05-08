@@ -55,7 +55,7 @@ p {
   font-family: helvetica;
 }
 
-.center {
+div.center {
   height: 200px;
   line-height: 200px;
 }
