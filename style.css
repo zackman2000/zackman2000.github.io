@@ -58,6 +58,6 @@ p {
 .center {
   height: 600px;
   line-height: 25px;
-  margin-top: 15%;
-  margin-bottom: -15%;
+  margin-top: 10%;
+  margin-bottom: -10%;
 }
