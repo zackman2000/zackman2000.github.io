@@ -1,17 +1,23 @@
-.lefttext {
-  text-align: left;
-}
-
 .centertext {
   text-align: center;
 }
 
-.righttext {
-  text-align: right;
+.bg {
+    background-image: url("background.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.justifytext {
-  text-align: justify;
+body, html {
+    height: 100%;
+    margin: 0 auto;
+}
+
+body {
+  padding: 0;
+  margin: 0;
 }
 
 h1 {
@@ -42,22 +48,4 @@ a:hover {
 
 a:active {
   background-color: darkblue;
-}
-
-body, html {
-    height: 100%;
-    margin: 0 auto;
-}
-
-.bg {
-    background-image: url("background.jpg");
-    height: 100%; 
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-body {
-  padding: 0;
-  margin: 0;
 }
