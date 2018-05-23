@@ -73,6 +73,11 @@ p {
     transform: rotate(90deg);
 }
 
+.resize {
+  height: 50%;
+  width: 50%;
+}
+
 .row {
   display: flex;
   flex-wrap: wrap;
