@@ -67,6 +67,6 @@ img.resize {
   max-height: 50%;
 }
 
-rotate {
+.rotate {
   transform: rotate(20deg);
 }
