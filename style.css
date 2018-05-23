@@ -69,20 +69,14 @@ p {
   margin-bottom: -10%;
 }
 
-img.resize {
-  max-width: 25%;
-  max-height: 25%;
+.container {
+    width: 150px;
+    height: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
 }
 
-.rotate {
-  transform: rotate(90deg);
-}
-
-.row {
-    display: flex;
-}
-
-.column {
-    flex: 33.33%;
-    padding: 5px;
+.resize {
+  object-fit: fill;
 }
