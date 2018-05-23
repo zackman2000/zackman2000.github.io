@@ -3,7 +3,6 @@
   height: 100%; 
   background-position: center;
   background-repeat: repeat;
-  background-size: cover;
 }
 
 body, html {
@@ -68,5 +67,5 @@ img.resize {
 }
 
 .rotate {
-  transform: rotate(20deg);
+  transform: rotate(270deg);
 }
