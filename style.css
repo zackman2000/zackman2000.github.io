@@ -63,6 +63,10 @@ p {
 }
 
 img.resize {
-  max-width:50%;
-  max-height:50%;
+  max-width: 50%;
+  max-height: 50%;
+}
+
+rotate {
+  transform: rotate(20deg);
 }
