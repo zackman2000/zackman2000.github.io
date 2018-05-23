@@ -69,14 +69,6 @@ p {
   margin-bottom: -10%;
 }
 
-.container {
-    width: 150px;
-    height: 100px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-}
-
-.resize {
-  object-fit: fill;
+.rotate {
+    transform: rotate(90deg);
 }
