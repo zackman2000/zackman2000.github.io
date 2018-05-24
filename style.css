@@ -108,3 +108,10 @@ p {
 .row div {
   margin: auto;
 }
+
+h2 {
+  color: black;
+  font-family: impact;
+  font-size: 200px;
+  margin: 0;
+}
