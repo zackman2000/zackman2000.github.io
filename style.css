@@ -77,7 +77,7 @@ p {
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 500px;
+  padding: 0 4px;
 }
 
 .column {
