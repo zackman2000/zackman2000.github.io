@@ -81,7 +81,7 @@ p {
 }
 
 .column {
-  float: left;
+  float: center;
   flex: 50%;
   padding: 0 100px;
 }
