@@ -116,3 +116,10 @@ p {
 .pics {
      margin: 0 auto;
 }
+
+h2 {
+  color: black;
+  font-family: impact;
+  font-size: 250px;
+  margin: 0;
+}
