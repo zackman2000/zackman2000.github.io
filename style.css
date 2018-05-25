@@ -77,13 +77,13 @@ p {
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 25px;
+  padding: 0 100px;
 }
 
 .column {
   flex: 25%;
   max-width: 25%;
-  padding: 0 4px;
+  padding: 0 100px;
 }
 
 .column img {
